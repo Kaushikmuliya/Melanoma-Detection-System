@@ -1,6 +1,6 @@
 # Melanoma Detection System 🔬
 
-An advanced AI-powered melanoma detection system using deep learning (ResNet50 + UNet) with 97%+ accuracy. This comprehensive application provides instant skin lesion analysis, detailed medical reports, and seamless doctor consultation features.
+An advanced AI-powered melanoma detection system using deep learning (ResNet50 + UNet) with 93%+ accuracy. This comprehensive application provides instant skin lesion analysis, detailed medical reports, and seamless doctor consultation features.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange.svg)
