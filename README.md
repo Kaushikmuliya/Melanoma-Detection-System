@@ -12,7 +12,7 @@ An advanced AI-powered melanoma detection system using deep learning (ResNet50 +
 
 ### AI-Powered Detection
 - **Dual CNN Architecture**: Combines ResNet50 for classification and UNet for segmentation
-- **High Accuracy**: Achieves 97%+ accuracy in melanoma detection
+- **High Accuracy**: Achieves 93% accuracy in melanoma detection
 - **Multi-Class Classification**: Detects 8 different skin conditions:
   - Melanoma
   - Basal Cell Carcinoma
